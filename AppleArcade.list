@@ -1,0 +1,10 @@
+# > Apple Arcade 規則集
+DOMAIN,fmfree.icloud.com
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN-SUFFIX,apple-arcade.com
+DOMAIN-SUFFIX,appstore.com
+DOMAIN-KEYWORD,apple-arcade
+DOMAIN,buy.itunes.apple.com
+DOMAIN,play-edge.itunes.apple.com
+DOMAIN-SUFFIX,gsa.apple.com
+DOMAIN-SUFFIX,gc.apple.com
